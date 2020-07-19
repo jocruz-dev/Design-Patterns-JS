@@ -1,7 +1,8 @@
-# EN: Design-Patterns-JS ES: Patrones de Diseño
-## EN:
+# EN :uk: : Design-Patterns-JS 
+
 In this repo, you will find some implementations of various design patterns on JS
 
-## ES:
+# ES :es: : Patrones de Diseño
+
 En este repositorio, encontraras algunas implementaciones de varios patrones de diseño en JS
 
