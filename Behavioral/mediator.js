@@ -32,6 +32,13 @@
      }
  }
 
+ /**
+  * EN:
+  * This is going to be our mediator, we need 2 functions,
+  *  - addStudent() => We need to add the instances of the functions thar're going 
+  *                    to communicate
+  *  - send() => This function calls the receive method from the instance that we are passing
+  */
  function History() {
     this.members = {}
  }
@@ -39,6 +46,7 @@
  History.prototype = {
      addStudent: function(student) {
          this.members[student.name] = student
+         //We need to add the definition of this scope in order to have access to the functions
          student.subject = this
      },
       send: function(message, from, receiver) {
