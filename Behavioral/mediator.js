@@ -7,6 +7,17 @@
  * pero la comunicacion debe tener cierto control sobre los mensajes.
  */
 
+ /**
+  * EN:
+  * This is the function that's going to create the different parts in communication
+  * ES:
+  * Esta es la funcion que va a crear las diferentes partes en comunicacion
+  * 
+  * @property {String} name - The name of the Student
+  * @property {Object} subject - The name of the mediator
+  * @property {Function} send - The trigger function that connects to the mediator
+  * @property {Function} receive - This function is the one in charge of getting the message from the mediator
+  */
  function Student(name) {
      this.name = name     
      this.subject = null
