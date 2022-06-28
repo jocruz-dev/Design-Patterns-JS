@@ -21,5 +21,5 @@ En este repositorio, encontraras algunas implementaciones de varios patrones de 
 
 - [Structural](https://github.com/JoshuaPCruz/Design-Patterns-JS/tree/master/Structural)
 
-    - [Proxy](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/proxy.js)
+    - [Proxy](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Structural/proxy.js)
 
