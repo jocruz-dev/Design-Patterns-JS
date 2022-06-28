@@ -12,14 +12,14 @@ En este repositorio, encontraras algunas implementaciones de varios patrones de 
     - [Iterator](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/iterator.js)
     - [Observer](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/observer.js)
     - [Strategy](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/strategy.js)
-    - [Strategy](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/mediator.js)
+    - [Mediator](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/mediator.js)
 
-- [Creational](https://github.com/JoshuaPCruz/Design-Patterns-JS/tree/master/Behavioral)
+- [Creational](https://github.com/JoshuaPCruz/Design-Patterns-JS/tree/master/Creational)
 
-    - [Factory](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/iterator.js)
-    - [Singleton](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/observer.js)
+    - [Factory](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Creational/factory.js)
+    - [Singleton](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Creational/singleton.js)
 
 - [Structural](https://github.com/JoshuaPCruz/Design-Patterns-JS/tree/master/Structural)
 
-    - [Factory](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/proxy.js)
+    - [Proxy](https://github.com/JoshuaPCruz/Design-Patterns-JS/blob/master/Behavioral/proxy.js)
 
